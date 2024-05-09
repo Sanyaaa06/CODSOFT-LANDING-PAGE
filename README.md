@@ -13,7 +13,7 @@ Installation
 Clone the repository:
 
 Copy code
-git clone https://github.com/RishavKrSingh762/CODSOFT-LANDING-PAGE.git
+git clone https://github.com/Sanyaaa06/CODSOFT-LANDING-PAGE
 Open the index.html file in your web browser.
 
 Usage
